@@ -1,0 +1,9 @@
+[package]
+name = "file_encryptor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes-gcm = "0.10"
+aes = "0.8"
+rand_core = "0.6"
